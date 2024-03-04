@@ -1,0 +1,304 @@
+.navbar1{
+    border-bottom: 2px solid green;
+}
+
+.hh{
+    color: green;
+    text-align: center;
+    font-size: 50px;
+}
+
+.vv{
+    text-align: center;
+    font-size: 40px;
+}
+
+.float{
+    float: right;
+    padding-bottom: 100px;
+    height: 500px; 
+    max-width: 50%;
+}
+
+.fr-mobile{
+    background-image: url(images/mobile2.png);
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: center;
+    height: 380px;
+    padding-right: 41%;
+}
+
+.head{
+    margin-top: 100px;
+    text-align: center;
+}
+
+
+.para{
+    text-align: center;
+}
+
+.btn{
+    margin-left: 120px;
+}
+
+.img-willi{
+    border-radius: 50%;
+}
+
+.img-ed1{
+    text-align: center;
+}
+
+.bubble{
+    border-radius: 40px;
+    float: right;
+}
+
+.last-form{
+   background-image: url(images/banner-new.jpg);   
+}
+
+.images1{
+    height: 400px;
+    width: 550px;
+}
+
+ .button-type{
+    margin-left: 2px;
+    /* height: 50px; */
+} 
+
+.btn:hover{
+background-color: darkturquoise;
+}
+
+.hillo{
+    margin: 0px 0px 0px 250px;
+    padding: 5px;
+}
+
+ /* .hhaDSH{
+    position: sticky;
+     width: 500px;
+    height: 500px;  
+}  */
+
+flex-card{
+    justify-content: space-around;
+}
+
+.head3{
+    background-color: rgb(1, 110, 1);
+    justify-content: space-between;
+}
+
+.banner-img{
+ width: 450px;
+ height: 400px;
+}
+
+.para4{
+    padding-top: 10px;
+    margin: 10px;
+}
+
+.lbox{
+    margin-bottom: 10px;
+    padding: 20px;
+    background-color: black;
+    justify-content: space-between;
+}
+
+.navbar2{
+    border-bottom: 2px solid green;
+}
+
+.lbox2{
+    margin-bottom: 10px;
+    padding: 20px;
+    background-color: black;
+    justify-content: space-between;
+}
+
+#span{
+    color: red;
+}
+
+@media only screen and (max-width: 768px) {
+.navbar1{
+    margin: 0px 447px 0px 0px;
+    width: 905px;
+    /* height: 113px; */
+}
+
+.ffhd{
+    margin: 0px 445px 0px 0px;
+    width: 830px;
+    padding: 0px 0px 30px 0px;
+}
+
+.banner-img{
+    height: 500px;
+    width: 550px;
+}
+
+.hh{
+    margin: 10px 0px 0px 260px;
+    width: 300px;
+}
+
+.vv{
+    margin: 10px 0px 0px 40px;
+    width: 770px;
+}
+    
+.ccf{
+    font-size: large;
+    width: 900px;  
+}
+
+.images1{
+    margin: 0px 0px 0px 120px;
+    
+}
+
+.fr-mobile{
+    margin-left: 215px;
+    height: 600px;
+    padding-right: 380px;
+}
+
+.efm{
+    margin-left: 218px;
+}
+
+.hillo{
+    margin-left: 150px;
+    padding: 10px;
+}
+
+.testadj{
+    margin-left: 30px;
+    width: 800px;
+}
+
+.head3{
+    width: 900px;
+}
+
+.para4{
+    margin-left: 20px;
+    width: 850px;
+}
+
+.lbox{
+    width: 905px;
+}
+
+.navbar2{
+    margin: 0px 447px 0px 0px;
+    width: 905px; 
+}
+
+.last-form{
+    width: 900px;
+}
+
+.lbox2{
+    width: 905px;
+}
+
+.navbarr{
+    width: 901px;
+}
+}
+
+
+/* @media only screen and (min-device-width: 768px) and (max-device-width: 1024px){
+    .navbar1{
+        margin: 0px 447px 0px 0px;
+        width: 1024px;
+    }
+    
+    .ffhd{
+        margin: 0px 445px 0px 0px;
+        width: 1024px;
+        padding: 0px 0px 30px 0px;
+    }
+    
+    .banner-img{
+        height: 500px;
+        width: 550px;
+    }
+    
+    .hh{
+        margin: 10px 0px 0px 260px;
+        width: 300px;
+    }
+    
+    .vv{
+        margin: 10px 0px 0px 40px;
+        width: 1024px;
+    }
+        
+    .ccf{
+        font-size: large;
+        width: 1024px;  
+    }
+    
+    .images1{
+        margin: 0px 0px 0px 240px;
+        
+    }
+    
+    .fr-mobile{
+        margin-left: 280px;
+        height: 650px;
+    }
+    
+    .efm{
+        margin-left: 160px;
+    }
+    
+    .hillo{
+        margin-left: 320px;
+        padding: 20px;
+    }
+    
+    .testadj{
+        margin-left: 30px;
+        width: 1024px;
+    }
+    
+    .head3{
+        width: 1024px;
+    }
+    
+    .bbbt1{
+        margin: 1px;
+    }
+
+    .para4{
+        margin-left: 5px;
+        width: 1024px;
+    }
+    
+    .lbox{
+        width: 1024px;
+    }
+    
+    .navbar2{
+        margin: 0px 447px 0px 0px;
+        width: 1024px; 
+    }
+    
+    .last-form{
+        width: 1024px;
+    }
+    
+    .lbox2{
+        width: 1024px;
+    }
+  }   */

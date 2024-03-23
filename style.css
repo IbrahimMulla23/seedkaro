@@ -140,7 +140,7 @@ flex-card{
     color: red;
 }
 
- /* @media only screen and (max-width: 768px) {
+ @media only screen and (max-width: 768px) {
 .navbar1{
     margin: 0px 447px 0px 0px;
     width: 905px;
@@ -237,7 +237,7 @@ flex-card{
 .navbarr{
     width: 901px;
 }
-}  */
+} 
 
 
 /* @media only screen and (min-device-width: 768px) and (max-device-width: 1024px){
